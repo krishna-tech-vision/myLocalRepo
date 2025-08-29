@@ -2,4 +2,4 @@ function Add(a, b) {
     return a + b;
 }
 
-Add(8,9);
+Add(3, 2);
